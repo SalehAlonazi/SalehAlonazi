@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalehAlonazi
-- 👀 I’m interested in Full Stack Development and Business Analyst. 
-- 🌱 I’m currently learning web development and business analysis.
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me Via Salehmoazy@gmail.com OR https://www.linkedin.com/in/saleh-alonazi-61a454156/
 
 <!---
